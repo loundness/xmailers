@@ -1,13 +1,13 @@
 # [Ajax-mailer-lyon](https://dbz-page.herokuapp.com)
 
-clipboard Présentation: 
+## :clipboard: Présentation: 
  
  Voici une application qui permet d'afficher, de lire et de suppimer les mails.
 
  Les mails non lus sont identifié par un background différent des mails lus.   
 
 ------------------------------
-# gem On utilise: #
+## :gem: On utilise: ##
 
 * ruby '2.5.1'
 
@@ -21,7 +21,7 @@ clipboard Présentation:
 
 
 ------------------------------
-# desktop_computer Instructions: #
+## :desktop_computer: Instructions: ##
 
 Pour tester cette application, importez le dossier sur votre pc, en suivant les instructions suivantes :
 
@@ -40,7 +40,7 @@ $ rails db:migrate
 $ rails server
 ```
 
-# rocket Lien Heroku: #
+## :rocket: Lien Heroku: ##
 
 Pour accéder à la page Heroku, [Ajax-mailer-lyon](https://dbz-page.herokuapp.com)
 
