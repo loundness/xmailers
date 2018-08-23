@@ -1,4 +1,4 @@
-# [Ajax-mailer-lyon](https://dbz-page.herokuapp.com)
+# [xmailers](https://mailerx.herokuapp.com/)
 
 ## :clipboard: Présentation: 
  
@@ -42,7 +42,7 @@ $ rails server
 
 ## :rocket: Lien Heroku: ##
 
-Pour accéder à la page Heroku, [Ajax-mailer-lyon](https://dbz-page.herokuapp.com)
+Pour accéder à la page Heroku, [xmailers](https://mailerx.herokuapp.com/)
 
 --------
 
