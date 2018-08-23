@@ -4,7 +4,7 @@
  
  Voici une application qui permet d'afficher, de lire et de suppimer les mails.
 
- Les mails non lus sont identifié par un background différent des mails lus.   
+ Les mails non lus sont identifiés par un background différent des mails lus.   
 
 ------------------------------
 ## :gem: On utilise: ##
